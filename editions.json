@@ -1,0 +1,44 @@
+{
+ "editions": [
+  {
+   "id": "n2",
+   "kicker": "N° 2 · Hebdomadaire",
+   "title": "Le luxe sans la Chine, le pétrole sans Ormuz",
+   "date": "Mercredi 14 octobre 2026",
+   "pages": 17,
+   "pad": 2,
+   "lecture": "articles/n2.html",
+   "prefix": "pages/n2-",
+   "extras": [
+    "articles/n2-carte1.jpg",
+    "articles/n2-carte2.jpg"
+   ]
+  },
+  {
+   "id": "pf1",
+   "kicker": "Cahier portefeuille",
+   "title": "Onze valeurs et l’or : le luxe, le pétrole et le ciel",
+   "date": "Lundi 12 octobre 2026",
+   "pages": 9,
+   "pad": 1,
+   "lecture": "articles/pf1.html",
+   "prefix": "pages/pf1-",
+   "extras": []
+  },
+  {
+   "id": "n1",
+   "kicker": "N° 1 · Hebdomadaire",
+   "title": "Ormuz, l’OAT et le mur des 5 %",
+   "date": "Mercredi 7 octobre 2026",
+   "pages": 16,
+   "pad": 2,
+   "lecture": "articles/n1.html",
+   "prefix": "pages/n1-",
+   "extras": [
+    "articles/n1-carte1.jpg",
+    "articles/n1-carte2.jpg",
+    "articles/n1-carte3.jpg"
+   ]
+  }
+ ]
+}
