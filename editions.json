@@ -1,6 +1,17 @@
 {
  "editions": [
   {
+   "id": "pf20261019",
+   "kicker": "Cahier portefeuille",
+   "title": "La semaine où vos valeurs passent l’examen",
+   "date": "Lundi 19 octobre 2026",
+   "pages": 9,
+   "pad": 1,
+   "lecture": "articles/pf20261019.html",
+   "prefix": "pages/pf20261019-",
+   "extras": []
+  },
+  {
    "id": "n2",
    "kicker": "N° 2 · Hebdomadaire",
    "title": "Le luxe sans la Chine, le pétrole sans Ormuz",
