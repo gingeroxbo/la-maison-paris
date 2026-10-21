@@ -1,6 +1,21 @@
 {
  "editions": [
   {
+   "id": "n3",
+   "kicker": "N° 3 · Hebdomadaire",
+   "title": "Paris emprunte plus cher que Rome",
+   "date": "Mercredi 21 octobre 2026",
+   "pages": 16,
+   "pad": 2,
+   "lecture": "articles/n3.html",
+   "prefix": "pages/n3-",
+   "extras": [
+    "articles/n3-carte1.jpg",
+    "articles/n3-carte2.jpg",
+    "articles/n3-carte3.jpg"
+   ]
+  },
+  {
    "id": "pf20261019",
    "kicker": "Cahier portefeuille",
    "title": "La semaine où vos valeurs passent l’examen",
