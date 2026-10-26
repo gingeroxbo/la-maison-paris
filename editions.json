@@ -1,6 +1,17 @@
 {
  "editions": [
   {
+   "id": "pf20261026",
+   "kicker": "Cahier portefeuille",
+   "title": "Safran trébuche, Hermès tient par le cuir",
+   "date": "Lundi 26 octobre 2026",
+   "pages": 10,
+   "pad": 2,
+   "lecture": "articles/pf20261026.html",
+   "prefix": "pages/pf20261026-",
+   "extras": []
+  },
+  {
    "id": "n3",
    "kicker": "N° 3 · Hebdomadaire",
    "title": "Paris emprunte plus cher que Rome",
