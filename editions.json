@@ -1,6 +1,20 @@
 {
  "editions": [
   {
+   "id": "n4",
+   "kicker": "N° 4 · Hebdomadaire",
+   "title": "Téhéran négocie, Paris respire",
+   "date": "Mercredi 28 octobre 2026",
+   "pages": 16,
+   "pad": 2,
+   "lecture": "articles/n4.html",
+   "prefix": "pages/n4-",
+   "extras": [
+    "articles/n4-carte1.jpg",
+    "articles/n4-carte2.jpg"
+   ]
+  },
+  {
    "id": "pf20261026",
    "kicker": "Cahier portefeuille",
    "title": "Safran trébuche, Hermès tient par le cuir",
