@@ -1,6 +1,17 @@
 {
  "editions": [
   {
+   "id": "pf20261102",
+   "kicker": "Cahier portefeuille",
+   "title": "Les comptes rassurent, l’or recule",
+   "date": "Lundi 2 novembre 2026",
+   "pages": 9,
+   "pad": 1,
+   "lecture": "articles/pf20261102.html",
+   "prefix": "pages/pf20261102-",
+   "extras": []
+  },
+  {
    "id": "n4",
    "kicker": "N° 4 · Hebdomadaire",
    "title": "Téhéran négocie, Paris respire",
