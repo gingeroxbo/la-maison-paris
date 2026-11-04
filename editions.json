@@ -1,6 +1,20 @@
 {
  "editions": [
   {
+   "id": "n5",
+   "kicker": "N° 5 · Hebdomadaire",
+   "title": "Nuit bleue à Washington, nuit chaude à Ormuz",
+   "date": "Mercredi 4 novembre 2026",
+   "pages": 15,
+   "pad": 2,
+   "lecture": "articles/n5.html",
+   "prefix": "pages/n5-",
+   "extras": [
+    "articles/n5-carte1.jpg",
+    "articles/n5-carte2.jpg"
+   ]
+  },
+  {
    "id": "pf20261102",
    "kicker": "Cahier portefeuille",
    "title": "Les comptes rassurent, l’or recule",
